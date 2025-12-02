@@ -379,13 +379,9 @@ For production deployment:
    - Implement health checks
    - Set up error tracking
 
-## 📝 License
 
-This project is created for demonstration purposes. Feel free to use and modify as needed.
 
-## 🤝 Contributing
 
-This is a demonstration project, but suggestions and improvements are welcome!
 
 ---
 
